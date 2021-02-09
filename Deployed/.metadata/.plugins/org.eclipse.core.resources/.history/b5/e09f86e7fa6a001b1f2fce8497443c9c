@@ -1,0 +1,10 @@
+package com.deployed.service;
+
+public Interface CalculateCostService {
+
+	public Integer calculateMinCost(Integer[] input) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

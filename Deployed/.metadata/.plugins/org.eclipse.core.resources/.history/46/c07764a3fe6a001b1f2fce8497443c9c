@@ -1,0 +1,8 @@
+package com.deployed.service;
+
+public interface CalculateCostService {
+
+	int calculateMinCost(int[] input);
+
+
+}

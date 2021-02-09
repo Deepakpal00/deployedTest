@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="DeployedApplicationTests" project="Deployed" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="com.deployed.DeployedApplicationTests" time="18.789" displayname="DeployedApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.deployed.DeployedApplicationTests]">
+    <testcase name="test1" classname="com.deployed.DeployedApplicationTests" time="18.758" displayname="test1()" uniqueid="[engine:junit-jupiter]/[class:com.deployed.DeployedApplicationTests]/[method:test1()]"/>
+    <testcase name="test2" classname="com.deployed.DeployedApplicationTests" time="0.006" displayname="test2()" uniqueid="[engine:junit-jupiter]/[class:com.deployed.DeployedApplicationTests]/[method:test2()]"/>
+    <testcase name="test3" classname="com.deployed.DeployedApplicationTests" time="0.007" displayname="test3()" uniqueid="[engine:junit-jupiter]/[class:com.deployed.DeployedApplicationTests]/[method:test3()]"/>
+    <testcase name="test4" classname="com.deployed.DeployedApplicationTests" time="0.017" displayname="test4()" uniqueid="[engine:junit-jupiter]/[class:com.deployed.DeployedApplicationTests]/[method:test4()]"/>
+  </testsuite>
+</testrun>

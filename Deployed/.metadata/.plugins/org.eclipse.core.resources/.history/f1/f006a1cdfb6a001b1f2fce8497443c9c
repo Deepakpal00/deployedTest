@@ -1,0 +1,15 @@
+package com.deployed.serviceImplementation;
+
+import com.deployed.service.CalculateCostService;
+
+public class CalculateCostServiceImpl implements CalculateCostService{
+
+	@Override
+	public int calculateMinCost(int[] input) {
+		
+		return 0;
+	}
+
+	
+
+}
